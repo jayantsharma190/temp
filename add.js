@@ -8,3 +8,4 @@ number=number/10;
 return add;
 }
 console.log(sum(12345));
+console.log('Hey there I am back');
